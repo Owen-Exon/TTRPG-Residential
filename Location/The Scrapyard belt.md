@@ -7,7 +7,7 @@ The asteroid field has 5 main regions:
 - [[Sector 1 - Sparse Region]]
 - [[Sector 2 - Amalgamation Core]]
 - [[Sector 3 - Gravitational Anomalies]]
-- [[Sector 4 - Dense Region]]
-- [[Sector 5 - Calm Region]]
+- [[Sector 4 - Calm Region]]
+- [[Sector 5 - Dense Region]]
 
 ![alt](./VISUAL/Belt%20Map.png)
