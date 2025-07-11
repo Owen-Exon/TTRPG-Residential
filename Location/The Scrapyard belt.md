@@ -11,3 +11,5 @@ The asteroid field has 5 main regions:
 - [[Sector 5 - Dense Region]]
 
 ![alt](./VISUAL/Belt%20Map.png)
+
+The asteroids all orbit clockwise from the view of the map. When referring to locations as clockwise or anti-clockwise of another, this is the reference used.
