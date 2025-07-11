@@ -2,7 +2,7 @@
 
 create a genre specific location (genre is your choice) - Design and write up a location, with several areas, NPCs, features, etc.
 
-- [ ] Pick Genre
+- [x] Pick Genre
 - [ ] Location
   - [ ] Overview
   - [ ] Specific Regions
