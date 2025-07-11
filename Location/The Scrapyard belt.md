@@ -9,3 +9,5 @@ The asteroid field has 5 main regions:
 - [[Sector 3 - Gravitational Anomalies]]
 - [[Sector 4 - Dense Region]]
 - [[Sector 5 - Calm Region]]
+
+![alt](./VISUAL/Belt%20Map.png)
