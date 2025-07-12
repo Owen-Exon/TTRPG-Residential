@@ -13,3 +13,5 @@ The asteroid field has 5 main regions:
 ![alt](./VISUAL/Belt%20Map.png)
 
 The asteroids all orbit clockwise from the view of the map. When referring to locations as clockwise or anti-clockwise of another, this is the reference used.
+
+The belt stably orbits a black hole, but this does mean that very few risk straying inwards from the belt to avoid risking getting trapped by the strong gravity or time dilation effects. These time dilation effects also mean that the amalgamation core are unable to travel directly across to the opposite regions since people would see them coming and have years to prepare.
