@@ -1,5 +1,10 @@
 {
 "material-icon-theme.files.associations": {
     "OverallToDo.md":"ToDo",
+},
+"markdownlint.config": {
+    "MD033": {
+        "allowed_elements": ["video"]
+    }
 }
 }
