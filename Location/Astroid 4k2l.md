@@ -16,4 +16,4 @@ These are the different Sides of the asteroid:
 - [[Steel Side]]
 - [[City Side]]
 
-<video controls src="VISUAL/0001-0030.mp4" title="Title"></video>
+<video controls src="VISUAL/Astroid.mp4" title="Title"></video>
