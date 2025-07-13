@@ -3,7 +3,7 @@
 ## Melee
 
 - Req : ```default offensive dice``` : The dice rolled when attacking with the weapon.
-- Req : ```Defense Aid``` : Dice/score added on defensive roll.
+- Opt : ```Defense Aid``` : Dice/score added on defensive roll.
 - Opt : ```arcane sigils``` : any extra magic properties.
   - Sigil of Sharpness : Deals additional damage. (After Defensive Roll if > 0)
   - Sigil of Fire : Deals damage each round for ```n``` rounds after hit.
@@ -30,6 +30,8 @@
 
 ## Arcane
 
-- Req : ```default offensive dice``` : The dice rolled when attacking with the weapon.
+- Req : ```default dice``` : The dice rolled when attacking or defending with the spell.
+- Req : ```Region``` : Region the spell occupies
+- Req : ```Range``` : Distance spell can be cast
 - Opt : ```Training``` : The dice rolled if someone is trained with this spell.
 - Opt : ```Special Effects```
