@@ -2,6 +2,10 @@
 
 Klenna Krisborn is a solitary natured [[astro scrap hunters|astro scrapper]] that lives on [[Astroid 4k2l]]. She is known by the other inhabitants of the asteroid as being antisocial and combative so they usually avoid her home on the [[Lonely Side]].
 
+## Appearance
+
+Over time, Klenna's exposure to the space in [[The Scrapyard belt]] and her cybernetic enhancements have caused her skin to turn slightly gray. Her hair is short and white.
+
 ## Childhood
 
 Klenna grew up in what has now become the [[Sector 1 - Sparse Region|Sparse Region]] of the [[The Scrapyard belt]] and has only leaves once a year to sell her wares. Her parents died whists scavenging near the [[Sector 2 - Amalgamation Core|amalgamation core]] and since then she has slowly moved anticlockwise around the belt until she reached where she lives now.
