@@ -8,7 +8,7 @@ Many exchanges in [[The Scrapyard belt]] are made by bartering with scrap and te
 
 All of the building above ground are made from random pieces of scrap welded together.
 
-These buildings tend to be commercial not residential and each one is usually made by someone for their own use. Some buildings above ground are:
+These buildings tend to be commercial not residential and each one is usually made by someone for their own or community use. Some buildings above ground are:
 
 - [[The greenhouse]]
 - [[The Silos]]
