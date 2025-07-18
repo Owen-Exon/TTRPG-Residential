@@ -12,7 +12,7 @@ Klenna grew up in what has now become the [[Sector 1 - Sparse Region|Sparse Regi
 
 ## House
 
-She lives in an underground structure she created herself in the [[Lonely Side]]. It mostly contains scrap she's found and things she needs to live. (Including a small crop of food)
+She lives in an underground structure she created herself in the [[Lonely Side]]. It mostly contains scrap she's found and things she needs to live. (Including a small crop of food created originally by [[Marrie Bridger]])
 
 ## Cybernetic Enhancements
 
@@ -21,6 +21,6 @@ Over time, Klenna has augmented herself with pieces of robots from [[The Scrapya
 A summary of her augmentations:
 
 - Replaced Right Arm with the arm of the [[Amalgamations|Amalgamation]] which took hers.
-- Oxygen shield implanted in her neck (As with all [[Inhabitants of the Belt]])
+- Modified Oxygen shield implanted in her neck (As with all [[Inhabitants of the Belt]])
 - Frames build from various hydraulic parts around her legs to allow her to jump from astroid to asteroid.
 - Etc.
