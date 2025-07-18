@@ -2,7 +2,7 @@
 
 This side of the astroid contains a partly subterranean village with a permanent population of about 100 and 20 to 50 temporary residents (usually [[astro scrap hunters|astro scrappers]])
 
-Most exchanges in [[The Scrapyard belt]] are made by bartering with scrap and technology.
+Many exchanges in [[The Scrapyard belt]] are made by bartering with scrap and technology. That said, people here also have a good-for-one good-for-all philosophy. Meaning a lot of the time things are given freely if it will aid in the survival of a person or peoples.
 
 ## Above the Ground
 
@@ -18,7 +18,7 @@ These buildings tend to be commercial not residential and each one is usually ma
 
 ## Below the Ground
 
-Below the ground most buildings are residential with some exceptions. If a flat isn't being lived in then it is free to claim unless there are too few free ones in which case residents are required to live with a friend or relative. If they don't have any then they can claim an empty one. People will barter if they want one for themselves.
+Below the ground most buildings are residential with some exceptions.
 
 These are some of the areas underground:
 
