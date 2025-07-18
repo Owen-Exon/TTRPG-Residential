@@ -4,7 +4,7 @@ All the organic waste created by the residents of the [[City Side]] is used as f
 
 The greenhouse is made from massive glass sheets that have been made pieces of sandstone asteroids.
 
-The person who manages the greehouse is [[Marrie Bridger]]
+The person who manages the greenhouse is [[Marrie Bridger]]
 
 This food gets stored in [[The Silos]].
 
@@ -22,5 +22,5 @@ These are some of the different crops in the greenhouse:
   - A large lily pad like plant which needs water to grow in.
   - It oozes this milk like substance.
 - pyrus bean
-  - A fast growing bean which if not harvested carefully can set on fire or explode.
-  - In order to stabilize them, they are soaked with oil. (Even once the oil has dried off the bean remains stable.)
+  - A fast growing bean which if not harvested carefully can set on fire.
+  - This makes them integral to the infrastructure of [[Astroid 4k2l]]

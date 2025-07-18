@@ -1,7 +1,9 @@
 # Astroid 4k2l
 
 Summary:
-    - Size : 1km across
+
+- Size : 1km across
+- [[Gravity Generator]] : 20m across
 
 This is just one asteroid found in the [[Sector 4 - Calm Region|Calm Region]] of [[The Scrapyard belt]]. There is nothing particularly *unique* about it. But unlike most asteroids in the belt, it is inhabited.
 
