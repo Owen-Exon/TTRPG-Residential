@@ -27,3 +27,7 @@ Any run of a single suit may be linked to increase a single players score in tha
 ### n of a kind
 
 3 or more of a kind can be linked to the parties character sheet to increase all skills for all players by 1 for every card above 2.
+
+### Jokers
+
+Jokers are used as wildcards and can replace any other cards. You may *not* have two jokers in a linked set.
