@@ -1,6 +1,6 @@
 # The Residential Tunnels
 
-These tunnels are build off of the [[Community Hall]].
+These tunnels are surrounding the [[Community Halls]].
 
 This is where the vast majority of people living on [[Astroid 4k2l]] live.
 

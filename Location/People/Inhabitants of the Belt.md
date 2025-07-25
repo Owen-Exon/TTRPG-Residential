@@ -13,3 +13,6 @@ Some inhabitants are:
 - [[Alexander Losser]] (Barman)
 - [[Lucina Decker]] (Doctor)
 - [[Nona Green-Flecher]] (Watcher)
+- [[Kort Bridleton]] (Furnace Manager)
+- [[Imber Raein]] ([[The Bookkeepers Building|Bookkeeper]])
+- [[Cromhall Dauding]] ([[The Bookkeepers Building|Bookkeeper]])

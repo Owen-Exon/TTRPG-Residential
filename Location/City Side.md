@@ -23,7 +23,7 @@ Below the ground most buildings are residential with some exceptions.
 These are some of the areas underground:
 
 - [[The Residential Tunnels]]
-- [[Community Hall]] + Bar
+- [[Community Halls]] + Bar
 - [[The Warehouse]]
 - [[The furnaces]]
 - [[Healers office]]
