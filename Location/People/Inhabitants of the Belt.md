@@ -6,4 +6,10 @@ All are implanted with an [[oxygen shield]] implanted in their neck. This allows
 
 Some inhabitants are:
 
-- [[Klenna Krisborn]]
+- [[Klenna Krisborn]] (Scrapper)
+- [[Gareth Atkins]] (Engineer)
+- [[Pike Atkins]] (Shop Owner)
+- [[Marrie Bridger]] (Gardener)
+- [[Alexander Losser]] (Barman)
+- [[Lucina Decker]] (Doctor)
+- [[Nona Green-Flecher]] (Watcher)

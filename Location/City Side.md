@@ -23,11 +23,14 @@ Below the ground most buildings are residential with some exceptions.
 These are some of the areas underground:
 
 - [[The Residential Tunnels]]
+- [[Community Hall]] + Bar
 - [[The Warehouse]]
+- [[The furnaces]]
+- [[Healers office]]
 
 ## Infrastructure
 
-The entire underground section of the city is sealed with [[air gates]] and oxygenated. It also is heated by vents linking to large furnaces of pyrus beans.
+The entire underground section of the city is sealed with [[air gates]] and oxygenated. It also is heated by vents linking to large [[The furnaces|furnaces]] of pyrus beans.
 
 They have pluming that sends all organic waste into storage next to [[The greenhouse]]. Any non-organic waste gets thrown into space.
 
