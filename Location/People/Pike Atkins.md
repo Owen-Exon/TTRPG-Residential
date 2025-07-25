@@ -8,4 +8,4 @@ Half of his face and the arm on the same side is cybernetic after a brutal fight
 
 ## Childhood
 
-He grew up in [[Klissomata]] as part of the wealthy [[The green family|green family]] where he was expected to go into [[the galaxy's hand]] but after a scandal that devastated the rest of his family he took it as an opportunity and fled to a planet where he could learn how to work with tech. A few years after he finished his training his then partner, now husband [[Gareth Atkins]] wanted to escape the control of [[the galaxy's hand]] and to they both moved to [[The Scrapyard belt]]
+He grew up in [[Klissomata]] as part of the wealthy [[The green family|green family]] where he was expected to go into [[the Hand of the Galaxy]] but after a scandal that devastated the rest of his family he took it as an opportunity and fled to a planet where he could learn how to work with tech. A few years after he finished his training his then partner, now husband [[Gareth Atkins]] wanted to escape the control of [[the Hand of the Galaxy]] and to they both moved to [[The Scrapyard belt]]
