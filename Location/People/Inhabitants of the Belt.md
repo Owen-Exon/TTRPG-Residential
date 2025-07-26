@@ -12,7 +12,7 @@ Some inhabitants are:
 - [[Marrie Bridger]] (Gardener)
 - [[Alexander Losser]] (Barman)
 - [[Lucina Decker]] (Doctor)
-- [[Nona Green-Flecher]] (Watcher)
+- [[Nona Green-Fletcher]] (Watcher)
 - [[Kort Bridleton]] (Furnace Manager)
 - [[Imber Raein]] ([[The Bookkeepers Building|Bookkeeper]])
 - [[Cromhall Dauding]] ([[The Bookkeepers Building|Bookkeeper]])
