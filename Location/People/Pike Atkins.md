@@ -4,7 +4,7 @@ Pike is a tech expert who sells cybernetic enhancements from his shop on [[Astro
 
 ## Appearance
 
-Half of his face and the arm on his left side is cybernetic after an explosion occurred while experimenting with scrap. He is always wearing a grey/green vest with black trowsers. Many who don't know him think he looks stern but in reality he is a very friendly person.
+Half of his face and the arm on his left side is cybernetic after an explosion occurred while experimenting with scrap. Whilst being healed by [[Lucina Decker]] a piece left in him exploded and damaged her right eye. He is always wearing a grey/green vest with black trowsers. Many who don't know him think he looks stern but in reality he is a very friendly person.
 
 ## Childhood
 

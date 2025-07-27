@@ -14,5 +14,5 @@ Some inhabitants are:
 - [[Lucina Decker]] (Doctor)
 - [[Nona Green-Fletcher]] (Watcher)
 - [[Kort Bridleton]] (Furnace Manager)
-- [[Imber Raein]] ([[The Bookkeepers Building|Bookkeeper]])
+- [[Imber Rain]] ([[The Bookkeepers Building|Bookkeeper]])
 - [[Cromhall Dauding]] ([[The Bookkeepers Building|Bookkeeper]])

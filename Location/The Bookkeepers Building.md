@@ -6,7 +6,7 @@ The Inhabitants of [[City Side]] all have an unofficial arrangement with the Boo
 
 ## The Senior Bookkeeper
 
-The current senior bookkeeper is [[Imber Raein]]. The role of the senior bookkeeper is to overview the operations of the other bookkeepers and [[Astroid 4k2l.md|the astroid]] as a whole.
+The current senior bookkeeper is [[Imber Rain]]. The role of the senior bookkeeper is to overview the operations of the other bookkeepers and [[Astroid 4k2l.md|the astroid]] as a whole.
 
 ## Junior Bookkeepers
 
